@@ -1,5 +1,5 @@
 # Supplementary materials for: 
-# Detecting Unreliable DNN Outputs with Score Complementarity
+# Multi-Guide: Detecting Unreliable DNN Outputs with Local and Global Score Complementarity
 
 ## This zip contains:
 - The supplementary material document.
