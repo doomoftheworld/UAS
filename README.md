@@ -33,6 +33,6 @@ To launch the experiment, you should:
 
 1. Go to the "src" folder and open a terminal.
 2. Type the command "jupyter notebook."
-3. Open the notebook you would like to run (e.g., UNNGuide_CIFAR10_DenseNet_101_OOD_Detection.ipynb).
+3. Open the notebook you would like to run (e.g., MultiGuide_CIFAR10_DenseNet_101_OOD_Detection.ipynb).
 4. Configure the parameters required in the notebook (Generally only for the data path of the Imagenet dataset).
 5. Launch the notebook.
