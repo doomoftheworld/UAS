@@ -3,12 +3,12 @@
 
 ## This zip contains:
 - The supplementary material document.
-- UNNGuide implementation.
+- MultiGuide implementation.
 
-## Instruction for executing UNNGuide:
+## Instruction for executing MultiGuide:
 ### Prerequisite:
 
-To execute UNNGuide, you must have the following software installed (the versions are the recommended ones):
+To execute MultiGuide, you must have the following software installed (the versions are the recommended ones):
 
 - Python 3.11.4
 - R 4.3.3
@@ -25,9 +25,9 @@ It is important to configure the following datasets before initiating the experi
 
 ### Pretrained models
 It is also important to dowload the pretrained models to be able to launch the experiments:
-- Download the "experim_models_UNNGuide.zip," which contains the pre-trained ResNet models from ..., and extract it in the folder "src." The sub-folders should be directly presented in the folder "src" (i.e., without a parent folder named "experim_models_UNNGuide").
+- Download the "experim_models_MultiGuide.zip," which contains the pre-trained ResNet models from ..., and extract it in the folder "src." The sub-folders should be directly presented in the folder "src" (i.e., without a parent folder named "experim_models_MultiGuide").
 
-### Launch UNNGuide
+### Launch MultiGuide
 
 To launch the experiment, you should:
 
